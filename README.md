@@ -9,5 +9,4 @@ This is a complete e-commerce website made using HTML, CSS and Javascript.
 - Basic authentication flow
 - Sort the product by price, popularity, ratings and sale.
 
-### Checkout the webiste here
-https://1122dipak.github.io/Red-Store/
+
